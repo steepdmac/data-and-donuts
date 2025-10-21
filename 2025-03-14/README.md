@@ -1,8 +1,7 @@
 # data-and-donuts
-Project STEEP DMAC workshop materials
-![plot]("C:\Users\johanna.ganglbauer\github\data-and-donuts\STEEP_Data_Donuts.jpg")
+Project STEEP DMAC workshop materials - 14 March 2025
 
-### material from 14th March 2025
+### material
 - agenda (agenda.pdf)
 - slides for introduction, data handling, data publications, best practices with excel and jupyter notebook example (overview_handling_publications_excel_jupyter.pdf)
 - slides about nice example from Justin Sankey (file_handling_justin.pdf)
@@ -13,8 +12,3 @@ Project STEEP DMAC workshop materials
   - contaminants_in_fish_solutions.ipynb (hands on example with solutions)
   - GLENDA_PFAS_IN_FISH.csv (input data in csv format)
   - GLENDA_PFAS_IN_FISH.xlsx (input data in xlsx format)
-
-  ### material from 31st October 2025
-- agenda (agenda.pdf)
-- slides from student presentations
-- slides from Rance Nault
