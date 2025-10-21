@@ -1,6 +1,9 @@
 # data-and-donuts
 Project STEEP DMAC workshop materials
-![plot](C:\Users\johanna.ganglbauer\github\data-and-donuts\STEEP_Data_Donuts.jpg)
+
+<p align="center">
+  <img src="STEEP_Data_Donuts.jpg" alt="logo" width="500">
+</p>
 
 ### material from 14th March 2025
 - agenda (agenda.pdf)
