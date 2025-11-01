@@ -19,5 +19,6 @@ Project STEEP DMAC workshop materials
 
   ### material from 31st October 2025
 - agenda (agenda.pdf)
-- slides from student presentations
-- slides from Rance Nault
+- abstract and bio from Rance Nault's seminar (abstract_bio_rance_nault.pdf)
+- slides from discussion session (slides_intro.pdf)
+- slides from Rance Nault's seminar (slides_rance_nault.pdf)
