@@ -26,7 +26,7 @@ A recording from Rance Nault's seminar is on our [youtube channel](https://youtu
 - slides from Olga's presentation on research data management (research_data_olga.pdf)
 - slides from Rance Nault's seminar (slides_rance_nault.pdf)
 
-### material from 31st October 2025
+### material from 18th March 2026
 - agenda (agenda.pdf)
 - slides from all sessions (Slides.pdf)
 - example:
