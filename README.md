@@ -32,3 +32,5 @@ A recording from Rance Nault's seminar is on our [youtube channel](https://youtu
 - example:
   - instructions for hands-on example (PCA_PFAS_Worksheet.pdf)
   - example data for hands-on example (water_grab_samples_matt_dunn_cape_cod.csv)
+  - solution code for hands-on example in R(pfas_pca_workshop.R)
+  - solution code for hands-on example in Python/Jupyter Notebook (pfas_pca_workshop.ipynb)
