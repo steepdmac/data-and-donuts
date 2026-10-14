@@ -34,3 +34,10 @@ A recording from Rance Nault's seminar is on our [youtube channel](https://youtu
   - example data for hands-on example (water_grab_samples_matt_dunn_cape_cod.csv)
   - solution code for hands-on example in R(pfas_pca_workshop.R)
   - solution code for hands-on example in Python/Jupyter Notebook (pfas_pca_workshop.ipynb)
+
+  ### material from 14th October 2026
+- agenda (agenda.pdf)
+- slides from all sessions:
+  - DMAC_introduction.pdf
+  - data_sharing_requirements.pdf
+  - biostatistics_confidence_intervals.pdf
