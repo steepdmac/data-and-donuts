@@ -5,7 +5,7 @@ Project STEEP DMAC workshop materials.
   <img src="STEEP_Data_Donuts.jpg" alt="logo" width="500">
 </p>
 
-A recording from Rance Nault's seminar is on our [youtube channel](https://youtube.com/@steepdataanddonuts?si=KKyB0NwPW5LAjetq).
+Recording from the latest Data&Donuts workshops are on our [youtube channel](https://youtube.com/@steepdataanddonuts?si=KKyB0NwPW5LAjetq).
 
 ### material from 14th March 2025
 - agenda (agenda.pdf)
